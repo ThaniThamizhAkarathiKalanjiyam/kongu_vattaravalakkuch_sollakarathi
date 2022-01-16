@@ -12,8 +12,7 @@ Thanks to https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXG
 
 எனது இந்தத் தள பணிகள் மற்றும் தமிழ் பற்றி உரையாடியதோடு அல்லாமல், இந்த அகராதியின் தேறிய பதிப்பை வாட்ஸ்அப் மூலம் பகிர்ந்த இங்கர்சால் அவர்களுக்கு எனது நன்றிகள் பல.
 
-பிச்சைமுத்து முத்தையா.
-ஜனவரி 16 2022
+
 
 ## Android பேசியில் நிறுவல் முறை How to install this dictionary at Android mobile
 
@@ -25,3 +24,11 @@ Thanks to https://www.tamildigitallibrary.in/book-detail.php?id=jZY9lup2kZl6TuXG
 - [சொல் தேடல் பக்கம்](https://thanithamizhakarathikalanjiyam.github.io/)
 - [அகராதிகள் தரவிறக்க Android Mobile](https://thanithamizhakarathikalanjiyam.github.io/tag/அகராதிகள்)
 - [அகராதிகள் தரவிறக்க Desktop/Windows](https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/archive/master.zip)
+
+
+
+-
+
+பிச்சைமுத்து முத்தையா.
+
+ஜனவரி 16 2022
